@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(219, 132, 132);
+    color: snow;
+    font-family: "Times New Roman" , Garamond , serif;
+    
+}
+
+h1{
+    font-weight: 500;
+    font-style: oblique;
+}
+
+a:link{
+color: white;
+}
+
+
+

@@ -1,0 +1,14 @@
+body{
+    color: rgb(90, 73, 53);
+    text-align: center;
+
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+body,a:link{
+    color:;
+}
